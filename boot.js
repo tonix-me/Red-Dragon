@@ -264,7 +264,7 @@ Time  =  ${xtime} `
     {buttonId: `owner`, buttonText: {displayText: '🙏WELCOME🙏'}, type: 1}
     ]
 let buttonMessage = {
-    image: { url: 'https://i.ibb.co/0h3Sv26/20220805-080104.jpg'},
+    image: { url: 'https://i.ibb.co/QYLp1vX/icon.jpg'},
 caption: xeonbody,
 footer: `${footer}`,
 buttons,
@@ -291,7 +291,7 @@ Time =  ${xeontime} `
     {buttonId: `owner`, buttonText: {displayText: '👎BYE👎'}, type: 1}
     ]
     let buttonMessage = {
-        image: { url: 'https://i.ibb.co/H4h3mh4/20220805-080200.jpg'},
+        image: { url: 'https://i.ibb.co/QYLp1vX/icon.jpg'},
     caption: xeonbody,
     footer: `${footer}`,
     buttons,
